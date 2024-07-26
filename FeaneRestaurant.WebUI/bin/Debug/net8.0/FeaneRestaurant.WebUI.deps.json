@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FeaneRestaurant.WebUI/1.0.0": {
+        "runtime": {
+          "FeaneRestaurant.WebUI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FeaneRestaurant.WebUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,6 @@
+@FeaneRestaurant.WebApi_HostAddress = http://localhost:5014
+
+GET {{FeaneRestaurant.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

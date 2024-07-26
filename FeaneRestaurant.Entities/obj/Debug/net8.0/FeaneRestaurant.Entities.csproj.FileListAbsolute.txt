@@ -1,0 +1,12 @@
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\bin\Debug\net8.0\FeaneRestaurant.Entities.deps.json
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\bin\Debug\net8.0\FeaneRestaurant.Entities.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\bin\Debug\net8.0\FeaneRestaurant.Entities.pdb
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.AssemblyInfoInputs.cache
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.AssemblyInfo.cs
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.csproj.CoreCompileInputs.cache
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.sourcelink.json
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\refint\FeaneRestaurant.Entities.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\FeaneRestaurant.Entities.pdb
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Entities\obj\Debug\net8.0\ref\FeaneRestaurant.Entities.dll

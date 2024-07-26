@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8vthwTHr9GZDtZ4lQmKwY9xHCZjfhpvbkaEyYLjaSOU=",
+  "Source": "FeaneRestaurant.WebApi",
+  "BasePath": "_content/FeaneRestaurant.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
