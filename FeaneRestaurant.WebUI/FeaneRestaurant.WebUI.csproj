@@ -6,4 +6,44 @@
     <ImplicitUsings>enable</ImplicitUsings>
   </PropertyGroup>
 
+  <ItemGroup>
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\config" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\description" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\HEAD" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\applypatch-msg.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\commit-msg.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\fsmonitor-watchman.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\post-update.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-applypatch.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-commit.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-merge-commit.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-push.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-rebase.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\pre-receive.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\prepare-commit-msg.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\push-to-checkout.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\sendemail-validate.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\hooks\update.sample" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\index" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\info\exclude" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\logs\HEAD" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\logs\refs\heads\master" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\logs\refs\remotes\origin\HEAD" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\objects\pack\pack-c0668497816175c5118613715c7eda5c4b86211d.idx" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\objects\pack\pack-c0668497816175c5118613715c7eda5c4b86211d.pack" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\objects\pack\pack-c0668497816175c5118613715c7eda5c4b86211d.rev" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\packed-refs" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\refs\heads\master" />
+    <None Include="wwwroot\Ready-Bootstrap-Dashboard\.git\refs\remotes\origin\HEAD" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="wwwroot\Ready-Bootstrap-Dashboard\.git\objects\info\" />
+    <Folder Include="wwwroot\Ready-Bootstrap-Dashboard\.git\refs\tags\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="8.0.3" />
+  </ItemGroup>
+
 </Project>

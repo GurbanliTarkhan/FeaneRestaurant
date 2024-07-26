@@ -991,6 +991,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
+          "FeaneRestaurant.Dto": "1.0.0",
           "FeaneRestaurant.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
@@ -1000,6 +1001,16 @@
         },
         "runtime": {
           "bin/placeholder/FeaneRestaurant.DataAccess.dll": {}
+        }
+      },
+      "FeaneRestaurant.Dto/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/FeaneRestaurant.Dto.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FeaneRestaurant.Dto.dll": {}
         }
       },
       "FeaneRestaurant.Entities/1.0.0": {
@@ -2770,6 +2781,11 @@
       "type": "project",
       "path": "../FeaneRestaurant.DataAccess/FeaneRestaurant.DataAccess.csproj",
       "msbuildProject": "../FeaneRestaurant.DataAccess/FeaneRestaurant.DataAccess.csproj"
+    },
+    "FeaneRestaurant.Dto/1.0.0": {
+      "type": "project",
+      "path": "../FeaneRestaurant.Dto/FeaneRestaurant.Dto.csproj",
+      "msbuildProject": "../FeaneRestaurant.Dto/FeaneRestaurant.Dto.csproj"
     },
     "FeaneRestaurant.Entities/1.0.0": {
       "type": "project",

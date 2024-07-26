@@ -561,12 +561,18 @@
       },
       "FeaneRestaurant.DataAccess/1.0.0": {
         "dependencies": {
+          "FeaneRestaurant.Dto": "1.0.0",
           "FeaneRestaurant.Entities": "1.0.0",
           "Microsoft.EntityFrameworkCore": "8.0.7",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.7"
         },
         "runtime": {
           "FeaneRestaurant.DataAccess.dll": {}
+        }
+      },
+      "FeaneRestaurant.Dto/1.0.0": {
+        "runtime": {
+          "FeaneRestaurant.Dto.dll": {}
         }
       },
       "FeaneRestaurant.Entities/1.0.0": {
@@ -968,6 +974,11 @@
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
     "FeaneRestaurant.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FeaneRestaurant.Dto/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

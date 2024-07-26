@@ -1,5 +1,6 @@
 ﻿using FeaneRestaurant.Business.Abstract;
 using FeaneRestaurant.DataAccess.Abstract;
+using FeaneRestaurant.Dto.ProductDto;
 using FeaneRestaurant.Entities.Entites;
 
 namespace FeaneRestaurant.Business.Concrete
@@ -12,6 +13,11 @@ namespace FeaneRestaurant.Business.Concrete
         {
             _productDal = productDal;
         }
+
+        //public List<Product> TGetProductsWithCategories()
+        //{
+        //    return _productDal.GetProductsWithCategories();
+        //}
 
         public void TAdd(Product entity)
         {

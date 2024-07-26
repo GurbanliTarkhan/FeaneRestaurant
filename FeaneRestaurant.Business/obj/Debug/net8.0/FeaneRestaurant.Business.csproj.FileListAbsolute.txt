@@ -16,3 +16,5 @@ C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\obj\Debug\n
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\obj\Debug\net8.0\refint\FeaneRestaurant.Business.dll
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\obj\Debug\net8.0\FeaneRestaurant.Business.pdb
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\obj\Debug\net8.0\ref\FeaneRestaurant.Business.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\bin\Debug\net8.0\FeaneRestaurant.Dto.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.Business\bin\Debug\net8.0\FeaneRestaurant.Dto.pdb

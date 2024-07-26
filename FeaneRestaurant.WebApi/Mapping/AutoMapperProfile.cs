@@ -58,6 +58,7 @@ namespace FeaneRestaurant.WebApi.Mapping
             CreateMap<Product, CreateProductDto>().ReverseMap();
             CreateMap<Product, UpdateProductDto>().ReverseMap();
             CreateMap<Product, GetProductDto>().ReverseMap();
+            CreateMap<Product, ResultProductWithCategoryDto>().ReverseMap();
 
             // SocialMedia 
             CreateMap<SocialMedia, ResultSocialMediaDto>().ReverseMap();

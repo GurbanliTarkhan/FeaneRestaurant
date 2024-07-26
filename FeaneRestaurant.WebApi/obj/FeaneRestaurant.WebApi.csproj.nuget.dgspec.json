@@ -102,6 +102,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "C:\\Users\\tarkh\\source\\repos\\FeaneRestaurant\\FeaneRestaurant.Dto\\FeaneRestaurant.Dto.csproj": {
+                "projectPath": "C:\\Users\\tarkh\\source\\repos\\FeaneRestaurant\\FeaneRestaurant.Dto\\FeaneRestaurant.Dto.csproj"
+              },
               "C:\\Users\\tarkh\\source\\repos\\FeaneRestaurant\\FeaneRestaurant.Entities\\FeaneRestaurant.Entities.csproj": {
                 "projectPath": "C:\\Users\\tarkh\\source\\repos\\FeaneRestaurant\\FeaneRestaurant.Entities\\FeaneRestaurant.Entities.csproj"
               }

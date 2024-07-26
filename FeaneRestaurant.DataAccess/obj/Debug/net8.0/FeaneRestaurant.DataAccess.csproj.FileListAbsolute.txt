@@ -16,3 +16,5 @@ C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\obj\Debug
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\obj\Debug\net8.0\FeaneRestaurant.DataAccess.pdb
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\obj\Debug\net8.0\FeaneRestaurant.DataAccess.genruntimeconfig.cache
 C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\obj\Debug\net8.0\ref\FeaneRestaurant.DataAccess.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\bin\Debug\net8.0\FeaneRestaurant.Dto.dll
+C:\Users\tarkh\source\repos\FeaneRestaurant\FeaneRestaurant.DataAccess\bin\Debug\net8.0\FeaneRestaurant.Dto.pdb

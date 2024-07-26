@@ -1,8 +1,10 @@
 ﻿using AutoMapper;
 using FeaneRestaurant.Business.Abstract;
+using FeaneRestaurant.DataAccess.Concrete;
 using FeaneRestaurant.Dto.ProductDto;
 using FeaneRestaurant.Entities.Entites;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace FeaneRestaurant.WebApi.Controllers
 {
@@ -12,11 +14,13 @@ namespace FeaneRestaurant.WebApi.Controllers
     {
         private readonly IProductService _productService;
         private readonly IMapper _mapper;
+        private readonly AppDbContext _context;
 
-        public ProductsController(IProductService productService, IMapper mapper)
+        public ProductsController(IProductService productService, IMapper mapper, AppDbContext context)
         {
             _productService = productService;
             _mapper = mapper;
+            _context = context;
         }
 
         [HttpGet]
@@ -37,6 +41,24 @@ namespace FeaneRestaurant.WebApi.Controllers
             }
             var result = _mapper.Map<ResultProductDto>(value);
             return Ok(result);
+        }
+
+        [HttpGet("ProductWithCategory")]
+        public IActionResult ProductWithCategory()
+        {
+            var values = _context.Products
+                .Include(x => x.Category)
+                .Select(y => new ResultProductWithCategoryDto
+                {
+                    Description = y.Description,
+                    ImageUrl = y.ImageUrl,
+                    Price = y.Price,
+                    ProductID = y.ProductID,
+                    ProductName = y.ProductName,
+                    ProductStatus = y.ProductStatus,
+                    CategoryName = y.Description
+                }).ToList();
+            return Ok(values);
         }
 
         [HttpPost]

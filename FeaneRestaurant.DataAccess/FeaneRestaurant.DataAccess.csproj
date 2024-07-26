@@ -20,6 +20,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\FeaneRestaurant.Dto\FeaneRestaurant.Dto.csproj" />
     <ProjectReference Include="..\FeaneRestaurant.Entities\FeaneRestaurant.Entities.csproj" />
   </ItemGroup>
 
